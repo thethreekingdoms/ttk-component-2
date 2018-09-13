@@ -1,0 +1,30 @@
+{
+  "presets": [
+    [
+      "env"
+    ],
+    [
+      "stage-0"
+    ],
+    [
+      "react"
+    ],
+  ],
+  "plugins": [
+    [
+      "transform-runtime"
+    ],
+    [
+      "add-module-exports"
+    ],
+    [
+      "transform-decorators-legacy"
+    ],
+    [
+      "import",
+      { 
+        libraryName: "antd"
+      }
+    ]
+  ]
+}
