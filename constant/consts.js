@@ -3,7 +3,7 @@
  */
 export const consts = {
     app : {
-        APPKEY_FORESEE_ECS_SINGLE: '10001006', //财税助手(独立版)
+        APPKEY_ECS_SINGLE: '10001006', //财税助手(独立版)
         APPKEY_CHANJET_TPLUS: '10006001'  //TPlus
     },
 
